@@ -1,7 +1,7 @@
 (!index and equations given in decimal!)
 1	a*0.2*b		               	rpm
 2	a*0.002*b	               	%
-3	a*0.002*b		              Deg
+3	a*0.002*b		        Deg
 4	abs(b-127)*0.01*a	        ATDC if Value >127, else "BTDC"
 5	a*(b-100)*0.1		          °C
 6	0.001*a*b		              V
